@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/photosnap-multipage-website-reactreactroutertailwindcss-buJAhn8FhC)
-- Live Site URL: [Netlify](https://photosnap-webapp.netlify.app/pricing)
+- Live Site URL: [Netlify](https://photosnap-webapp.netlify.app)
 
 ## My process
 
