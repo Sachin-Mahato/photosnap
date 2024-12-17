@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/photosnap-multipage-website-reactreactroutertailwindcss-buJAhn8FhC)
-- Live Site URL: [Vercel]()
+- Live Site URL: [Netlify](https://photosnap-webapp.netlify.app/pricing)
 
 ## My process
 
@@ -51,3 +51,4 @@ I've used TailwindCSS for a few smaller projects but this was the first time usi
 ## Author
 
 - Website - [Sachin Mahato](https://github.com/Sachin-Mahato)
+- Upwork - [Hire me on Upwork](https://www.upwork.com/freelancers/~01227f421932d23364?mp_source=share)
